@@ -1,0 +1,70 @@
+{
+  "ingredients": [
+    {
+      "amount": 2,
+      "unit": "c",
+      "weight": 241,
+      "ingredient": "cake flour"
+    },
+    {
+      "amount": 1.25,
+      "unit": "tsp",
+      "ingredient": "salt"
+    },
+    {
+      "amount": 2,
+      "unit": "tsp",
+      "ingredient": "baking powder"
+    },
+    {
+      "amount": 4,
+      "ingredient": "eggs"
+    },
+    {
+      "amount": 2,
+      "unit": "c",
+      "weight": 397,
+      "ingredient": "granulated sugar"
+    },
+    {
+      "amount": 1,
+      "unit": "tbsp",
+      "weight": 14,
+      "ingredient": "vanilla extract"
+    },
+    {
+      "amount": 0.125,
+      "unit": "tsp",
+      "ingredient": "almond extract; optional, for enhanced flavor"
+    },
+    {
+      "amount": 1,
+      "unit": "c",
+      "weight": 227,
+      "ingredient": "milk, whole milk preferred"
+    },
+    {
+      "amount": 4,
+      "unit": "tbsp",
+      "weight": 57,
+      "ingredient": "butter, cut into pats"
+    },
+    {
+      "amount": 0.333,
+      "unit": "c",
+      "weight": 67,
+      "ingredient": "vegetable oil"
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 325°F with a rack in the center. Lightly grease two 8\" or 9\" round cake pans; for extra protection against sticking, line the bottom of the pans with parchment and grease the parchment. If your 8\" pans aren't at least 2\" deep, use 9\" pans.",
+    "In a small bowl, combine the flour, salt, and baking powder. Set aside.",
+    "In a large mixing bowl, either using an electric hand mixer or a stand mixer with whisk attachment, beat the eggs, sugar, vanilla, and almond extract (if using), until thickened and light gold in color, about 2 minutes at medium-high speed.",
+    "Add the dry ingredients and mix just enough to combine. Scrape the bottom and sides of the bowl, then mix again briefly.",
+    "In a saucepan set over medium heat or in the microwave, bring the milk just to a simmer. Remove the pan from the heat and add the butter and oil, stirring until the butter has melted.",
+    "Slowly mix the hot milk-butter-oil mixture into the batter, stirring on low speed until everything is well combined. Scrape the bowl and mix briefly, just until smooth.",
+    "Divide the batter evenly between the pans.",
+    "Bake until a tester inserted into the center comes out clean and the top feels set (see below for baking times).",
+    "Remove from the oven, carefully loosen the edges, and allow to cool for 15 minutes in the pans. Transfer them to a rack, right-side up, to cool to room temperature."
+  ]
+}
